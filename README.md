@@ -17,3 +17,5 @@
 cailiao（数字）对应上图
 利齿子liic（）
 微尘weichen（）
+命令行启动：
+https://airtest.doc.io.netease.com/IDEdocs/3.4run_script/1_useCommand_runScript/
