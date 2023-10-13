@@ -12,7 +12,8 @@
 #是注释刷什么就去掉#
 不刷就加上
 
-![Screenshot_20231010_123142_com taptap](https://github.com/cllxc/1999-/assets/106934853/703760e6-30bb-4cf2-9e3e-e16bab17e28c)
+![Screenshot_20231013_122231](https://github.com/cllxc/1999-/assets/106934853/25d0cdff-45c6-42e2-a0f1-998aefed8ae8)
+
 cailiao（数字）对应上图
 利齿子liic（）
 微尘weichen（）
