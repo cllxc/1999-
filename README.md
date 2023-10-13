@@ -19,3 +19,5 @@ cailiao（数字）对应上图
 微尘weichen（）
 命令行启动：
 https://airtest.doc.io.netease.com/IDEdocs/3.4run_script/1_useCommand_runScript/
+体力不够会报错
+脚本开起时页面必须在1999游戏图标所在的桌面或游戏主页
