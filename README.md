@@ -18,7 +18,7 @@ cailiao（数字）对应上图
 随机不随机活动
 要指定材料的话
 ![屏幕截图 2023-10-15 003912](https://github.com/cllxc/1999-/assets/106934853/7d7875aa-90fd-4a33-bd17-8ebced891aad)
-这行下面加
+这行下面加:
 sjs=材料数字
 命令行启动：
 https://airtest.doc.io.netease.com/IDEdocs/3.4run_script/1_useCommand_runScript/
