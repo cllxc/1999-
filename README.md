@@ -21,3 +21,5 @@ cailiao（数字）对应上图
 https://airtest.doc.io.netease.com/IDEdocs/3.4run_script/1_useCommand_runScript/
 体力不够会报错
 脚本开起时页面必须在1999游戏图标所在的桌面或游戏主页
+
+你可以写一个bat脚本再用windows计划程序执行
