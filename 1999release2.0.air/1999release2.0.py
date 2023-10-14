@@ -340,6 +340,7 @@ def xuanze(xuans):
     elif xuans==8:
         lichi()
     elif xuans==9:
+        huodong()
 def dgxh():
     
 def kaishua():
