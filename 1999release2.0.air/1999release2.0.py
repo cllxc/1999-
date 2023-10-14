@@ -325,7 +325,7 @@ def huodong():
 def xuanze(xuans):
     if xuans==1:
         cailiao(1)
-    elif xuans==2
+    elif xuans==2:
         cailiao(2)
     elif xuans==3:
         cailiao(3)
@@ -341,7 +341,6 @@ def xuanze(xuans):
         lichi()
     elif xuans==9:
         huodong()
-def dgxh():
     
 def kaishua():
         #poco(text="重返未来：1999").click()
