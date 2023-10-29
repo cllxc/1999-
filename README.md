@@ -1,4 +1,5 @@
 # 1999-
+我没写偏移量，所以这个脚本不一定能用
 基于网易airtext的简单1999自动脚本
 首先需要下载airtext测试环境
 官网：https://airtest.netease.com/index.html
@@ -24,5 +25,3 @@ sjs=材料数字
 https://airtest.doc.io.netease.com/IDEdocs/3.4run_script/1_useCommand_runScript/
 体力不够会报错
 脚本开起时页面必须在1999游戏图标所在的桌面或游戏主页
-
-你可以写一个bat脚本再用windows计划程序执行
